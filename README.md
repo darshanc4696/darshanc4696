@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **darshanc4696@gmail.com**
 
-- ⚡ Fun fact **I do follow Cricket every day**
+- ⚡ My hobbies are **I do follow Cricket every day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
