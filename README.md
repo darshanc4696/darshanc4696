@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning Machine learning and Deep Learning<br><br>👯 I’m looking to collaborate on Python/Machine learning Projects<br><br>👨‍💻 All of my projects are available at https://github.com/darshanc4696<br><br>💬 Ask me about Programming, Machine Learning, Data Science<br><br>📫 How to reach me darshanc4696@gmail.com<br><br>⚡ My hobbies are I do follow Cricket every day, Listening to music
 
-
+[![](https://visitcount.itsvg.in/api?id=darshanc4696&icon=6&color=4)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshan-gowda-c?)  
 
@@ -19,6 +19,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=darshanc4696&icon=6&color=4)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
