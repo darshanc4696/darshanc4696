@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Machine learning and Deep Learning<br><br>👯 I’m looking to collaborate on Java/Python/Machine learning Projects<br><br>👨‍💻 All of my projects are available at https://github.com/darshanc4696<br><br>💬 Ask me about Programming, Machine Learning, Data Science<br><br>📫 How to reach me darshanc4696@gmail.com<br><br>⚡ My hobbies are I do follow Cricket every day, Listening to music
+🌱 I’m currently learning Machine Learning and Deep Learning<br><br>👯 I’m looking to collaborate on Java/Python/Machine Learning Projects<br><br>👨‍💻 All of my projects are available at https://github.com/darshanc4696<br><br>💬 Ask me about Programming, Machine Learning, Data Science<br><br>📫 How to reach me darshanc4696@gmail.com<br><br>⚡ My hobbies are, I do follow Cricket every day & Listening to music
 
 [![](https://visitcount.itsvg.in/api?id=darshanc4696&icon=2&color=11)](https://visitcount.itsvg.in)
 
