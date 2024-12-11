@@ -1,5 +1,13 @@
 # 💫 About Me:
-🌱 I’m currently learning Spring Boot<br>👯 I’m looking to collaborate on Java/Python/Machine Learning Projects<br>👨‍💻 All of my projects are available at https://github.com/darshanc4696<br>💬 Ask me about Programming, Machine Learning, Data Science<br>📫 How to reach me darshanc4696@gmail.com<br>⚡ My hobbies are, I do follow Cricket every day & Listening to music
+🌱 I’m currently learning **Spring Boot**<br>
+👯 I’m looking to collaborate on **Java/Python/Machine Learning Projects**<br>
+👨‍💻 All of my projects are available at [My GitHub Repository](https://github.com/darshanc4696)<br>
+💬 Ask me about **Programming, Machine Learning, and Data Science**<br>
+📫 How to reach me: **darshanc4696@gmail.com**<br>
+⚡ Fun fact: I’m a huge fan of **Cricket** and love **Listening to music**.
+
+<img align="right" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg" alt="Web Development Illustration" width="300"/>
+
 
 [![](https://visitcount.itsvg.in/api?id=darshanc4696&icon=0&color=5)](https://visitcount.itsvg.in)
 
