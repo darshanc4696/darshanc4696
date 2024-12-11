@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning **Spring Boot**<br>
 👯 I’m looking to collaborate on **Java/Python/Machine Learning Projects**<br>
-👨‍💻 All of my projects are available at [My GitHub Repository]([https://github.com/darshanc4696](https://github.com/darshanc4696?tab=repositories))<br>
+👨‍💻 All of my projects are available at [My GitHub Repository](https://github.com/darshanc4696?tab=repositories)<br>
 💬 Ask me about **Programming, Machine Learning, and Data Science**<br>
 📫 How to reach me: **darshanc4696@gmail.com**<br>
 ⚡ Fun fact: I’m a huge fan of **Cricket** and love **Listening to music**.
