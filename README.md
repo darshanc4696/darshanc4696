@@ -6,7 +6,7 @@
 📫 How to reach me: **darshanc4696@gmail.com**<br>
 ⚡ Fun fact: I’m a huge fan of **Cricket** and love **Listening to music**
 
-<img align="right" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg" alt="Web Development Illustration" width="200"/>
+<img align="left" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg" alt="Web Development Illustration" width="150"/>
 
 
 
