@@ -9,7 +9,7 @@
 <img align="right" src="https://img.freepik.com/premium-vector/illustration-web-development-programmer-coding-website_746655-2851.jpg" alt="Web Development Illustration" width="180"/>
 
 
-[![](https://visitcount.itsvg.in/api?id=darshanc4696&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=darshanc4696&icon=0&color=13)](https://visitcount.itsvg.in)
 
 
 
@@ -21,7 +21,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=darshanc4696&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=darshanc4696&theme=neon&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=darshanc4696&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanc4696&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -31,3 +31,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+
+
